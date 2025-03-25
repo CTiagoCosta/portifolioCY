@@ -1,12 +1,12 @@
-Portfolio Preview
+# Portfolio Preview
 
 Um site de portfólio moderno, responsivo e elegante para desenvolvedores full stack, construído com Next.js, TypeScript e Tailwind CSS.
 
-📋 Sobre o Projeto
+# 📋 Sobre o Projeto
 
 Este portfólio foi desenvolvido para apresentar de forma profissional as habilidades, projetos e informações de contato de Carina Yanaze, uma desenvolvedora full stack. O design é moderno, com suporte a tema claro/escuro e totalmente responsivo para todos os dispositivos.
 
-✨ Funcionalidades
+# ✨ Funcionalidades
 
 Design Responsivo: Adaptado para todos os tamanhos de tela
 Tema Claro/Escuro: Alternância entre temas com persistência de preferência
@@ -23,7 +23,7 @@ Shadcn/UI: Componentes de UI reutilizáveis
 Lucide Icons: Biblioteca de ícones
 Next Themes: Gerenciamento de temas claro/escuro
 
-🚀 Como Executar
+# 🚀 Como Executar
 
 Pré-requisitos
 Node.js 18.x ou superior
@@ -49,7 +49,7 @@ npm run build
 # ou
 yarn build
 
-📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
 portfolio-carina-yanaze/
 
@@ -73,7 +73,7 @@ portfolio-carina-yanaze/
 ├── next.config.js          # Configuração do Next.js
 └── package.json            # Dependências e scripts
 
-🎨 Personalização
+# 🎨 Personalização
 
 Cores e Tema
 As cores do tema são definidas em app/globals.css usando variáveis CSS. Você pode personalizar as cores alterando os valores HSL nas variáveis:
@@ -93,7 +93,7 @@ Contato: Altere as informações de contato em components/contact.tsx
 Imagens
 Substitua as imagens de placeholder em public/ por suas próprias imagens e atualize os caminhos nos componentes.
 
-🤝 Contribuição
+# 🤝 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
 
@@ -103,10 +103,10 @@ Commit suas mudanças (git commit -m 'Add some amazing feature')
 Push para a branch (git push origin feature/amazing-feature)
 Abra um Pull Request
 
-📄 Licença
+# 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
-📬 Contato
+# 📬 Contato
 
 Tiago Costa - tiagocdz29@hotmail.com
