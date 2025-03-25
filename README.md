@@ -52,6 +52,7 @@ yarn build
 📁 Estrutura do Projeto
 
 portfolio-carina-yanaze/
+
 ├── app/                    # Diretório principal do Next.js App Router
 │   ├── layout.tsx          # Layout principal da aplicação
 │   ├── page.tsx            # Página inicial
@@ -108,4 +109,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 
 📬 Contato
 
-Carina Yanaze - carina.yanaze@exemplo.com
+Tiago Costa - tiagocdz29@hotmail.com
