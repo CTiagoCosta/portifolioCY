@@ -3,9 +3,11 @@ Portfolio Preview
 Um site de portfólio moderno, responsivo e elegante para desenvolvedores full stack, construído com Next.js, TypeScript e Tailwind CSS.
 
 📋 Sobre o Projeto
+
 Este portfólio foi desenvolvido para apresentar de forma profissional as habilidades, projetos e informações de contato de Carina Yanaze, uma desenvolvedora full stack. O design é moderno, com suporte a tema claro/escuro e totalmente responsivo para todos os dispositivos.
 
 ✨ Funcionalidades
+
 Design Responsivo: Adaptado para todos os tamanhos de tela
 Tema Claro/Escuro: Alternância entre temas com persistência de preferência
 Animações Suaves: Transições e animações para melhor experiência do usuário
@@ -22,6 +24,7 @@ Lucide Icons: Biblioteca de ícones
 Next Themes: Gerenciamento de temas claro/escuro
 
 🚀 Como Executar
+
 Pré-requisitos
 Node.js 18.x ou superior
 npm ou yarn
@@ -47,6 +50,7 @@ npm run build
 yarn build
 
 📁 Estrutura do Projeto
+
 portfolio-carina-yanaze/
 ├── app/                    # Diretório principal do Next.js App Router
 │   ├── layout.tsx          # Layout principal da aplicação
@@ -69,6 +73,7 @@ portfolio-carina-yanaze/
 └── package.json            # Dependências e scripts
 
 🎨 Personalização
+
 Cores e Tema
 As cores do tema são definidas em app/globals.css usando variáveis CSS. Você pode personalizar as cores alterando os valores HSL nas variáveis:
 
@@ -76,6 +81,7 @@ As cores do tema são definidas em app/globals.css usando variáveis CSS. Você 
   --primary: 291.2 83.2% 53.3%;  /* Cor principal (roxo) */
   /* Outras variáveis de cor... */
 }
+
 Conteúdo
 Para personalizar o conteúdo do portfólio:
 
@@ -87,6 +93,7 @@ Imagens
 Substitua as imagens de placeholder em public/ por suas próprias imagens e atualize os caminhos nos componentes.
 
 🤝 Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
 
 Faça um fork do projeto
@@ -96,7 +103,9 @@ Push para a branch (git push origin feature/amazing-feature)
 Abra um Pull Request
 
 📄 Licença
+
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
 📬 Contato
+
 Carina Yanaze - carina.yanaze@exemplo.com
