@@ -8,7 +8,9 @@ export const metadata = {
     generator: 'v0.dev'
 }
 
-export default function RootLayout({ children }) {
+import { ReactNode } from "react";
+
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="pt-BR" suppressHydrationWarning>
       <body>
@@ -19,7 +21,5 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
-
-
 
 import './globals.css'
